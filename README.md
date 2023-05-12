@@ -1,3 +1,14 @@
+# About
+
+This is a small NextJS Todo App to demonstrate the ins and outs.
+
+It uses NextJS and MongoDb.
+
+
+
+# Installation and Usage
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
